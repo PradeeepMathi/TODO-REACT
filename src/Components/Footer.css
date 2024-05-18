@@ -1,0 +1,17 @@
+.Footer{
+    position: fixed;
+    bottom: 0;
+    background: yellowgreen;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    padding: 10px;
+    font-size: 1.5em;
+    justify-content: start;
+}
+.item-l{
+    margin: 50px;
+}
+.item-T{
+    margin: 50px;
+}
